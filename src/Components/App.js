@@ -1,12 +1,16 @@
 import React, { useState } from "react";
+import useSound from "use-sound";
 import Button from "./button";
 import { moveButton, insta } from "./Script.js";
+import happySound from "./Audio/happy-happy-happy-song.mp3";
 
 function App() {
   const [yesbutton, setButton] = useState(false);
+  const [play] = useSound(happySound);
 
   function nextPage() {
     setButton(true);
+    play();
   }
 
   const Checkbutton = () => {
