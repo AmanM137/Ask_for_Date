@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ask_for_Date/static/css/main.4c53ab2c.css",
+    "main.js": "/Ask_for_Date/static/js/main.8f95d72a.js",
+    "static/js/845.e17cc334.chunk.js": "/Ask_for_Date/static/js/845.e17cc334.chunk.js",
+    "static/media/happy-happy-happy-song.mp3": "/Ask_for_Date/static/media/happy-happy-happy-song.6e60a8d645edea006cfa.mp3",
+    "index.html": "/Ask_for_Date/index.html",
+    "main.4c53ab2c.css.map": "/Ask_for_Date/static/css/main.4c53ab2c.css.map",
+    "main.8f95d72a.js.map": "/Ask_for_Date/static/js/main.8f95d72a.js.map",
+    "845.e17cc334.chunk.js.map": "/Ask_for_Date/static/js/845.e17cc334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c53ab2c.css",
+    "static/js/main.8f95d72a.js"
+  ]
+}
